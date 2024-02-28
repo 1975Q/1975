@@ -1,4 +1,5 @@
-### Hi there 👋
+The tool does not work on the terminal, it works using the Python language
+
 
 <!--
 **TurkyMc/TurkyMc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
