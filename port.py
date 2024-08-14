@@ -9,7 +9,7 @@ ip = "31.13.69.35"
 port = 443
 
 if sock.connect_ex((ip , port))== 0:
-  print ("port  is open")
+  print ("port 443 is open")
 else:
   print ("port 443 is closed")
 
