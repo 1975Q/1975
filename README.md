@@ -1,5 +1,6 @@
 The tool does not work on the terminal, it works using the Python language
-
+I am not responsible for misuse of tools.
+Tools for education only
 
 <!--
 **TurkyMc/TurkyMc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
