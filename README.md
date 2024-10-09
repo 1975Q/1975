@@ -1,6 +1,9 @@
 The tool does not work on the terminal, it works using the Python language
 I am not responsible for misuse of tools.
 Tools for education only
+
+A tool admin.pl used to catch loopholes and use them through the terminal
+
 ![image](https://github.com/user-attachments/assets/256d38fd-04d7-4b37-8a6f-09ef6ea61883)
 
 <!--
